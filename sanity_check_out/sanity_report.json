@@ -1,0 +1,23 @@
+{
+  "json_path": "/Users/daisybuathatseephol/Documents/three_json_output/Testing/testing.json",
+  "n_rows_total": 2304,
+  "n_rows_valid": 2304,
+  "n_rows_with_issues": 1,
+  "issues_by_type": {
+    "acc_mismatch_subj_vs_correct": 1
+  },
+  "rows_by_condition": {
+    "full": 768,
+    "central": 768,
+    "peripheral": 768
+  },
+  "unique_pairs_by_condition": {
+    "full": 24,
+    "central": 24,
+    "peripheral": 24
+  },
+  "pair_overlap_full_central": 0,
+  "pair_overlap_full_peripheral": 0,
+  "pair_overlap_central_peripheral": 0,
+  "pair_overlap_all_three": 0
+}
